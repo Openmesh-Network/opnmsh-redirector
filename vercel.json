@@ -1,0 +1,24 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://www.openmesh.network",
+      "permanent": true
+    },
+    {
+      "source": "/xnode",
+      "destination": "https://www.openmesh.network/xnode/units",
+      "permanent": false
+    },
+    {
+      "source": "/discord",
+      "destination": "https://discord.com/invite/openmesh",
+      "permanent": false
+    },
+    {
+      "source": "/genesis",
+      "destination": "https://openrd.openmesh.network/genesis",
+      "permanent": false
+    }
+  ]
+}
