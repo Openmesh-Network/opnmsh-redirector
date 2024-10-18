@@ -7,7 +7,7 @@
     },
     {
       "source": "/xnode",
-      "destination": "https://www.openmesh.network/xnode/units",
+      "destination": "https://www.openmesh.network/xnode/claim",
       "permanent": false
     },
     {
