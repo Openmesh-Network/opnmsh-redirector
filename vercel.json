@@ -6,6 +6,11 @@
       "permanent": true
     },
     {
+      "source": "/install",
+      "destination": "https://raw.githubusercontent.com/Openmesh-Network/xnodeos/main/install.sh",
+      "permanent": false
+    },
+    {
       "source": "/xnode",
       "destination": "https://www.openmesh.network/xnode/claim",
       "permanent": false
